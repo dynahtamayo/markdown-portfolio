@@ -1,5 +1,4 @@
-List of favorites
--Music
--Animals
--Books
--Blue
+- Animals
+- Books
+- Blue
+- Music
